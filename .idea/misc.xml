@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Chrome Downloads/School work/Year 3 Sem 1/C347 Android Programming II/Lesson Projects/PS12_Notify_Me_On_Wear/app/src/main/res/layout/activity_add.xml" value="0.1796875" />
+        <entry key="..\:/Chrome Downloads/School work/Year 3 Sem 1/C347 Android Programming II/Lesson Projects/PS12_Notify_Me_On_Wear/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Chrome Downloads/School work/Year 3 Sem 1/C347 Android Programming II/Lesson Projects/PS12_Notify_Me_On_Wear/app/src/main/res/layout/activity_reply.xml" value="0.1796875" />
+        <entry key="..\:/Chrome Downloads/School work/Year 3 Sem 1/C347 Android Programming II/Lesson Projects/PS12_Notify_Me_On_Wear/app/src/main/res/layout/activity_update_delete.xml" value="0.22" />
+        <entry key="..\:/Chrome Downloads/School work/Year 3 Sem 1/C347 Android Programming II/Lesson Projects/PS12_Notify_Me_On_Wear/app/src/main/res/layout/row.xml" value="0.1796875" />
+        <entry key="..\:/Chrome Downloads/School work/Year 3 Sem 1/C347 Android Programming II/Lesson Projects/PS12_Notify_Me_On_Wear/wear/src/main/res/layout/activity_main.xml" value="0.6" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
